@@ -24,9 +24,9 @@
 - 获取项目代码（https or ssh）
 
 ```bash
-git clone https://github.com/zp342519261/tesla-ui.git
+git clone https://github.com/zp342519261/tesla-vue-components.git
 
-git clone git@github.com:zp342519261/tesla-uigit
+git clone git@github.com:zp342519261/tesla-vue-componentsgit
 ```
 
 - 安装依赖

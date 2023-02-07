@@ -19,9 +19,9 @@ hero:
       link: /components/button
     - theme: alt
       text: Starred
-      link: https://github.com/zp342519261/tesla-ui
+      link: https://github.com/zp342519261/tesla-vue-components
     - theme: alt
       text: Forked
-      link: https://github.com/zp342519261/tesla-ui/fork
+      link: https://github.com/zp342519261/tesla-vue-components/fork
 ---
 

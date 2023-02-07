@@ -60,7 +60,7 @@ const config: UserConfig = {
   ],
   themeConfig: {
     editLink: {
-      pattern: 'https://github.com/zp342519261/tesla-ui/tree/main/docs/:path',
+      pattern: 'https://github.com/zp342519261/tesla-vue-components/tree/main/docs/:path',
       text: '编辑此页面',
     },
     logo: '/logo2.png',
@@ -73,7 +73,7 @@ const config: UserConfig = {
         faeFilters: ['tags:guide,api'],
       },
     },
-    socialLinks: [{ icon: 'github', link: 'https://github.com/zp342519261/tesla-ui' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/zp342519261/tesla-vue-components' }],
     // 顶部标题栏
     nav,
     // 侧边栏

@@ -8,11 +8,11 @@
     "vue"
   ],
   "bugs": {
-    "url": "https://github.com/zp342519261/tesla-ui/issues"
+    "url": "https://github.com/zp342519261/tesla-vue-components/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zp342519261/tesla-ui.git"
+    "url": "git+https://github.com/zp342519261/tesla-vue-components.git"
   },
   "license": "MIT",
   "main": "lib/index.js",
